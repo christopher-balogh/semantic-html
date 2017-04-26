@@ -5,7 +5,6 @@
 - [] `<nav>` uses a `<ul>`
 - [] Uses an `<article>`
 - [] `<article>` has a `<header>`
-- [] `<article>` resets header counts
 - [] `<time>` used for date
 - [] `<section>` used parts of articles
 - [] `<address>` used for email address
